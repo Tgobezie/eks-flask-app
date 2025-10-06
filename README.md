@@ -1,6 +1,7 @@
-# eks-demo
+# eks-flask-app
 
-- Deploy app manually using the deployment manifest file
-- Deploy flask/python app for resource monitoring 
-- App repo is eks-flask-app Create manifest file locally 
+- Deploy flask/python app for resource monitoring
+- Create manifest file locally 
+- Deploy app manually using the deployment manifest file: deploy.yaml
 - Create app on EKS cluster: kubectl apply -f deploy.yaml
+- App repo is eks-flask-app 
